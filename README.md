@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🏥 AI Hospital Resource Allocation System
 
 ## 📌 Problem
@@ -35,13 +34,15 @@ hospital-ai-system/
 ## ▶️ How to Run
 
 ```bash
-pip install -r requirements.txt
-streamlit run app.py
+python -m pip install -r requirements.txt
+python -m streamlit run app.py
 ```
 
 ## 📷 Demo (Optional)
 
-*Add screenshot here*
+<img width="1920" height="1080" alt="Screenshot 1" src="https://github.com/user-attachments/assets/c77fecbf-aa6a-40b7-b9b6-d530999bcc56" />
+<img width="1920" height="1080" alt="Screenshot 2" src="https://github.com/user-attachments/assets/ddd812f0-916a-454c-a4c4-49320da15c85" />
+
 
 ## 🌟 Future Improvements
 
@@ -52,7 +53,6 @@ streamlit run app.py
 
 ## 👩‍💻 Author
 
-Likitha
-=======
+Likitha, Vainavi
 # hospital-ai-system
 >>>>>>> 7e542b1ed21ec2b50e987b2638f4be10b8e78e54
