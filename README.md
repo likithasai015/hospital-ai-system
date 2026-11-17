@@ -53,6 +53,6 @@ python -m streamlit run app.py
 
 ## 👩‍💻 Author
 
-Likitha, Vainavi
+Likitha
 # hospital-ai-system
 >>>>>>> 7e542b1ed21ec2b50e987b2638f4be10b8e78e54
